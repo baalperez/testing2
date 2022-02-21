@@ -2,5 +2,9 @@ com/kodilla/testing2/ebay/EBayTestingApp.java
  com.kodilla.testing2.ebay.EBayTestingApp
 com/kodilla/testing2/google/GoogleTestingApp.java
  com.kodilla.testing2.google.GoogleTestingApp
+com/kodilla/testing2/facebook/FacebookTestingApp.java
+ com.kodilla.testing2.facebook.FacebookTestingApp
+com/kodilla/testing2/crudapp/CrudAppTestingApp.java
+ com.kodilla.testing2.crudapp.CrudAppTestingApp
 com/kodilla/testing2/config/WebDriverConfig.java
  com.kodilla.testing2.config.WebDriverConfig
